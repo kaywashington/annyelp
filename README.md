@@ -18,7 +18,6 @@ We measured the efficacy of the models using the precision, recall, and f1-score
 
 
 <img src="blog_figures/Yelp%20Overall%20Performance.png" alt="Alt text" width="300"/>
-
 <img src="blog_figures/NYT%20full%20metrics.png" alt="Alt text" width="300"/>
 
 # Thanks for reading!
