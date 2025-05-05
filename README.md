@@ -13,8 +13,8 @@ We used a Yelp Dataset from Kaggle to train our model with simpler and labeled d
 
 ## Results
 We measured the efficacy of the models using the precision, recall, and f1-score. The following are graphical representations of these measures:
-![yelp figure](/blog_figures/Yelp%20Overall%20Performance.png)
-![NYT figure](/blog_figures/NYT%20full%20metrics.png)
+<img src="blog_figures/Yelp%20Overall%20Performance.png" alt="Alt text" width="300"/>
+<img src="blog_figures/NYT%20full%20metrics.png" alt="Alt text" width="300"/>
 
 # Thanks for reading!
 
