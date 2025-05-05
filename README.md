@@ -1,6 +1,8 @@
 # Artificial Neural Networks Final Project: Resturant Reviews
 ### By Nick McGeveran and Kayln Washington
 
+Full description of project at: https://annfinalproject.wordpress.com/?_gl=1*1nbqw36*_gcl_au*MjEyMDE2Mzc4NS4xNzQ2NDc1NDk2
+
 ## Our Motivation
 Decoding restaurant reviews on Yelp or Google is a simple affair. The reviewer assigns a star rating and elaborates on it. Whether you choose to read the review or not, there is a numeric value at the top to gauge the general sentiment of customer. 
 
