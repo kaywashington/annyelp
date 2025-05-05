@@ -3,7 +3,9 @@
 
 ## Our Motivation
 Decoding restaurant reviews on Yelp or Google is a simple affair. The reviewer assigns a star rating and elaborates on it. Whether you choose to read the review or not, there is a numeric value at the top to gauge the general sentiment of customer. 
+
 But what about food critics? Travel bloggers? Reddit commenters?
+
 To gauge their general sentiment about a spot, you must read the whole review. We want to make it easier to gather information from different sources without reading everything yourself. 
 
 ***How can neural networks be leveraged to perform sentiment analysis on Yelp reviews? Can these results be extended to longer/more complicated reviews?***
@@ -13,7 +15,10 @@ We used a Yelp Dataset from Kaggle to train our model with simpler and labeled d
 
 ## Results
 We measured the efficacy of the models using the precision, recall, and f1-score. The following are graphical representations of these measures:
+
+
 <img src="blog_figures/Yelp%20Overall%20Performance.png" alt="Alt text" width="300"/>
+
 <img src="blog_figures/NYT%20full%20metrics.png" alt="Alt text" width="300"/>
 
 # Thanks for reading!
