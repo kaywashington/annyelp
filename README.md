@@ -19,5 +19,6 @@ We measured the efficacy of the models using the precision, recall, and f1-score
 
 <img src="blog_figures/Yelp%20Overall%20Performance.png" alt="Alt text" width="300"/> <img src="blog_figures/NYT%20full%20metrics.png" alt="Alt text" width="300"/>
 
+The graph of performance metrics on the Yelp dataset is found in code block 2 of "Graphical_Representations.ipynb", while the graph for the NYT dataset is found in code block 3 of the same file. The numbers for these datasets are sourced from the classification reports in the other files. For the logistic regression model, the classification report for the Yelp data is located in code block 5 of "Logistic_Regression_TFIDF", and for the NYT data in code block 7 of the same file. For the LSTM, the Yelp data is found in code block 8 of "LSTM.ipynb", and the NYT data is located in code block 10 of "LSTM.ipynb."
 # Thanks for reading!
 
